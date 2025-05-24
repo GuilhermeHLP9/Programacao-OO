@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3f2f024-dc05-4967-911e-237014f0361d" name="Changes" comment="commit inicial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuilhermeHLP9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GuilhermeHLP9/POO.git&quot;,
+    &quot;accountId&quot;: &quot;949c5e66-4dc3-4248-8eb1-0fe461afc11e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2u0u01rmDclghNUshIP4CBhl570" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guilh\Desktop\ADS\4Quarto Semestre\POO\Lista4\src\Musica" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f2f024-dc05-4967-911e-237014f0361d" name="Changes" comment="" />
+      <created>1741397587033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741397587033</updated>
+      <workItem from="1741397588989" duration="304000" />
+      <workItem from="1741397902210" duration="44000" />
+      <workItem from="1741398056121" duration="42000" />
+      <workItem from="1741398316141" duration="321000" />
+      <workItem from="1741398646717" duration="68000" />
+      <workItem from="1741398727012" duration="252000" />
+      <workItem from="1741399003122" duration="15000" />
+      <workItem from="1741399130006" duration="16000" />
+      <workItem from="1741399190248" duration="1062000" />
+      <workItem from="1741400271880" duration="347000" />
+      <workItem from="1741400697799" duration="39000" />
+      <workItem from="1741738642920" duration="149000" />
+      <workItem from="1741825908793" duration="43000" />
+      <workItem from="1744413691477" duration="35000" />
+      <workItem from="1747177141673" duration="371000" />
+      <workItem from="1748044041548" duration="601000" />
+      <workItem from="1748044653720" duration="607000" />
+      <workItem from="1748045991484" duration="49000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1748044309820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748044309820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1748044934784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748044934784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1748044963322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748044963322</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1748045002018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748045002018</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Lista1" />
+      <path value="$PROJECT_DIR$/Lista2" />
+      <path value="$PROJECT_DIR$/Lista3" />
+      <path value="$PROJECT_DIR$/Lista4" />
+    </ignored-roots>
+    <MESSAGE value="seila" />
+    <MESSAGE value="commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
+  </component>
+</project>

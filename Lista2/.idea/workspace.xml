@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20ab7d34-fbbf-49a2-9894-d65881ccffdd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuilhermeHLP9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GuilhermeHLP9/POO-ADS.git&quot;,
+    &quot;accountId&quot;: &quot;949c5e66-4dc3-4248-8eb1-0fe461afc11e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2u0bT7RkqGdgJ10GF3NmlfI63kb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainAluno.executor": "Run",
+    "Application.MainCarro.executor": "Run",
+    "Application.MainCliente.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO/Lista2/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ab7d34-fbbf-49a2-9894-d65881ccffdd" name="Changes" comment="" />
+      <created>1741388448625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741388448625</updated>
+      <workItem from="1741388449781" duration="2042000" />
+      <workItem from="1741392587975" duration="1896000" />
+      <workItem from="1741394867871" duration="7000" />
+      <workItem from="1741398716849" duration="3000" />
+      <workItem from="1741400738559" duration="55000" />
+      <workItem from="1741400832936" duration="17000" />
+      <workItem from="1741825945219" duration="2000" />
+      <workItem from="1741982486129" duration="1435000" />
+      <workItem from="1741990970479" duration="4144000" />
+      <workItem from="1741995201969" duration="169000" />
+      <workItem from="1741996307390" duration="2691000" />
+      <workItem from="1741999641930" duration="121000" />
+      <workItem from="1742252583822" duration="6000" />
+      <workItem from="1742254561604" duration="246000" />
+      <workItem from="1742256391272" duration="907000" />
+      <workItem from="1742257541280" duration="954000" />
+      <workItem from="1742258706392" duration="298000" />
+      <workItem from="1742259324091" duration="175000" />
+      <workItem from="1742479634929" duration="183000" />
+      <workItem from="1742595357859" duration="209000" />
+      <workItem from="1742597258253" duration="124000" />
+      <workItem from="1742597748744" duration="658000" />
+      <workItem from="1742600532741" duration="5000" />
+      <workItem from="1743003957405" duration="14000" />
+      <workItem from="1744312745143" duration="20000" />
+      <workItem from="1744313976502" duration="24000" />
+      <workItem from="1745619972157" duration="51000" />
+      <workItem from="1745620044871" duration="382000" />
+      <workItem from="1745621480976" duration="275000" />
+      <workItem from="1747089558238" duration="15000" />
+      <workItem from="1747176139761" duration="6000" />
+      <workItem from="1747177018731" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
