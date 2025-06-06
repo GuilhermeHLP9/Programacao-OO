@@ -36,7 +36,6 @@ public class GeneroService {
     public Genero updateGenero(Long id, Genero novo) {
         Genero recuperado = generoRepository.findById(id).orElse(null);
         if (recuperado != null) {
-            recuperado.setId(novo.getId());
             recuperado.setNome(novo.getNome());
             generoRepository.save(recuperado);
             return recuperado;
