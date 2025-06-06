@@ -1,20 +1,21 @@
 package br.edu.fatecfranca.apirestfulbd.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity// a classe vai ser mapeada em uma tabela
 
 public class Livro {
     @Id // chave primaria(identifica unicamente um livro)
-    // o id será gerado automaticamente, me sequencia
+    // o id será gerado automaticamente, na sequencia
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String titulo;
     private String autor;
     private String editora;
+    // relaciona com o genero
+    @ManyToOne
+    @JoinColumn(name = "genero_id")
+    private Genero genero;
 
     public Livro() {
     }
@@ -51,5 +52,11 @@ public class Livro {
         this.editora = editora;
     }
 
+    public Genero getGenero() {
+        return genero;
+    }
 
+    public void setGenero(Genero genero) {
+        this.genero = genero;
+    }
 }

@@ -1,4 +1,7 @@
 package br.edu.fatecfranca.apirestfulbd.repository;
 
-public class GeneroRepository {
+import br.edu.fatecfranca.apirestfulbd.model.Genero;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface GeneroRepository extends JpaRepository<Genero, Long> {
 }
