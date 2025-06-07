@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63680c2e-757c-47d8-89c1-ef137b4212c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Nova pasta.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Baterista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Guitarrista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Musico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Pianista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Musica/Recital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rh/Assistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rh/Diretor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rh/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rh/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiDbRl/src/main/java/br/edu/fatecfranca/exapidbrl/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiDbRl/src/main/java/br/edu/fatecfranca/exapidbrl/model/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiRestDB/src/main/java/br/edu/fatecfranca/exapirestdb/controller/AlunoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiRestDB/src/main/java/br/edu/fatecfranca/exapirestdb/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiRestDB/src/main/java/br/edu/fatecfranca/exapirestdb/repository/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExApiRestDB/src/main/java/br/edu/fatecfranca/exapirestdb/service/AlunoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApiRestfulBD/src/main/java/br/edu/fatecfranca/apirestfulbd/service/GeneroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiRestfulBD/src/main/java/br/edu/fatecfranca/apirestfulbd/service/GeneroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApiRestfulLista/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiRestfulLista/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicioApi.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +28,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GuilhermeHLP9"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:GuilhermeHLP9/Programacao-OO.git",
+    "accountId": "949c5e66-4dc3-4248-8eb1-0fe461afc11e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -50,23 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO/Lista3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO/Lista4/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO/Lista3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/guilh/Desktop/ADS/4Quarto Semestre/POO/Lista4/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,6 +102,7 @@
       <workItem from="1745624001959" duration="1133000" />
       <workItem from="1745625241618" duration="114000" />
       <workItem from="1745625404506" duration="3000" />
+      <workItem from="1749256256814" duration="353000" />
     </task>
     <servers />
   </component>

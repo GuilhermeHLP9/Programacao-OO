@@ -3,8 +3,6 @@ package br.edu.fatecfranca.apirestfulbd.service;
 import br.edu.fatecfranca.apirestfulbd.model.Genero;
 import br.edu.fatecfranca.apirestfulbd.repository.GeneroRepository;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.List;
 
